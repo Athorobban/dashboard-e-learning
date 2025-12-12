@@ -8,7 +8,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Sistem **Dashboard E-Learning** yang dikembangkan menggunakan **Next.js**, **TypeScript**, **Supabase**, dan **Firebase Authentication**.  
+Sistem **Dashboard E-Learning** yang dikembangkan menggunakan **Next.js**, **TypeScript**, **Supabase**.  
 Project ini dibangun untuk mendukung digitalisasi pembelajaran di Sekolah Dasar, termasuk fitur manajemen materi, tugas, kuis, dan dashboard role-based untuk Admin, Guru, dan Siswa.
 
 ---
@@ -17,7 +17,7 @@ Project ini dibangun untuk mendukung digitalisasi pembelajaran di Sekolah Dasar,
 
 - **Next.js (App Router)**
 - **TypeScript**
-- **Supabase (Database + Storage + Authentication)**
+- **Supabase (Database + Storage)**
 - **Supabase Authentication**
 - **React Hook Form**
 - **TanStack Query**
