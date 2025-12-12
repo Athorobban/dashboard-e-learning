@@ -1,4 +1,4 @@
-# 📘 Dashboard E-Learning — Next.js 16 + TypeScript + Tailwindcss + Supabase
+# 📘 Dashboard E-Learning — Next.js + TypeScript + Tailwindcss + Supabase
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
