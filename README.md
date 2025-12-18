@@ -1,21 +1,21 @@
-# 📘 Dashboard E-Learning — Next.js 16 + TypeScript + Tailwindcss + Supabase
+# 📘 Dashboard E-Learning — Next.js + TypeScript + Tailwindcss + Supabase
 
-![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Supabase](https://img.shields.io/badge/Supabase-Database%20%2B%20Storage-3ECF8E?logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![ShadCN](https://img.shields.io/badge/ShadCN-UI-black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-Sistem **Dashboard E-Learning** yang dikembangkan menggunakan **Next.js 16**, **TypeScript**, **Supabase**, dan **Firebase Authentication**.  
+Sistem **Dashboard E-Learning** yang dikembangkan menggunakan **Next.js**, **TypeScript**, **Supabase**.  
 Project ini dibangun untuk mendukung digitalisasi pembelajaran di Sekolah Dasar, termasuk fitur manajemen materi, tugas, kuis, dan dashboard role-based untuk Admin, Guru, dan Siswa.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Next.js 16 (App Router)**
+- **Next.js (App Router)**
 - **TypeScript**
 - **Supabase (Database + Storage)**
 - **Supabase Authentication**
@@ -70,7 +70,7 @@ Setiap pengguna mendapatkan akses berbeda sesuai peran:
 
 ### 🔐 Autentikasi Pengguna
 
-- Login menggunakan Firebase Auth
+- Login menggunakan Supabase Auth
 - Sistem role tersimpan di Supabase
 - Proteksi halaman menggunakan middleware
 - Redirect otomatis berdasarkan role
